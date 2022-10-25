@@ -1,0 +1,25 @@
+
+h1 {
+    font-size: 26px;
+    color: bisque;
+}
+
+.parte1 {
+   text-align: center;
+    background: #1a0873;
+}
+
+.parte2 {
+    background: pink;
+}
+
+img {
+    width: 300px;
+    text-align: center;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: bisque
+    
+}
